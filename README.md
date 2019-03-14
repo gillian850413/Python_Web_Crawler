@@ -1,2 +1,2 @@
 # web_crawler
-Basic Python Web Crawler 
+Basic Python Web Crawler with Beautiful Soup
